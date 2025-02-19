@@ -1,0 +1,22 @@
+site_name: Examen_Unidad_6
+
+site_url: https://DanielMarinhoMartinez.github.io/Examen_Unidad_6/
+
+# docs es donde se encuentran los archivos de entrada (archivos .md y .pdf)
+docs_dir: 'docs'
+
+# site es donde se generarán los archivos estáticos
+site_dir: 'site'
+
+# Configuración de la navegación
+nav:
+  - Index: Index.md
+  - Manual de Usuario: Guía_de_Instalación_Windows_11.md
+  - Guía de Referencia: Especificaciones_Técnicas_iPhone_16.md
+  
+
+theme:
+  name: 'readthedocs'
+
+
+
