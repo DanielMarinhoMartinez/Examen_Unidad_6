@@ -1,3 +1,5 @@
+## ***Guía Completa del iphone 16***
+
 ## iPhone 16 - Especificaciones técnicas
 ### Año de presentación: 2024 
 ### ***Acabado***
@@ -248,6 +250,10 @@ ___
     • Con la mayor privacidad hasta la fecha para un asistente inteligente
 
 Más información sobre Siri
+
+
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 ### *Botones y conectores externos*
