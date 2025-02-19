@@ -13,4 +13,4 @@
 [Guia de las Especificaciones_Técnicas_iPhone_16(MD)](Guía_de_Instalación_Windows_11.md)
 
 
-[Descargar Guia de las Especificaciones_Técnicas_iPhone_16 en PDF](Guía_de_Instalación_Windows_11.md)
+[Descargar Guia de las Especificaciones_Técnicas_iPhone_16 en PDF](Guía_de_Instalación_Windows_11.pdf)
